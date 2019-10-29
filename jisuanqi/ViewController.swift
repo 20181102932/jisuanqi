@@ -13,12 +13,9 @@ class ViewController: UIViewController {
     @IBOutlet weak var a: UITextField!
     @IBOutlet var b: [UITextField]!
     @IBOutlet var c: [UITextField]!
-    @IBOutlet var fuhao: [UITextField]!
-    @IBAction func jia(_ sender: UIButton) {
-        
-    }
-    @IBAction func jian(_ sender: UIButton) {
-    //c = a - b
+    
+    @IBAction func jisuan(_ sender: UIButton) {
+        c = a + b
     }
     override func viewDidLoad() {
         super.viewDidLoad()

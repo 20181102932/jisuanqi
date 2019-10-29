@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14313.18" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
-    <device id="retina6_5" orientation="portrait">
+    <device id="retina6_1" orientation="portrait">
         <adaptation id="fullscreen"/>
     </device>
     <dependencies>
@@ -130,7 +130,7 @@
                                 <color key="backgroundColor" red="0.97201568953186057" green="0.82793118656145148" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <state key="normal" title="计      算"/>
                                 <connections>
-                                    <action selector="jisuan:" destination="BYZ-38-t0r" eventType="touchUpInside" id="iRR-g0-dFg"/>
+                                    <action selector="jisuan:" destination="BYZ-38-t0r" eventType="touchUpInside" id="TGz-Tl-164"/>
                                 </connections>
                             </button>
                         </subviews>
